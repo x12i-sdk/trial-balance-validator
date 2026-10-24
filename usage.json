@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/trial-balance-validator",
+  "packageVersion": "1.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/trial-balance-validator",
+  "usageRepository": "https://github.com/x12i-sdk/trial-balance-validator",
+  "sourceRepository": "https://github.com/x12i/finanfix",
+  "sourceCommit": "8630e4c4f201deb35cd10c3790c9d5abdbce4633",
+  "sourcePackageDirectory": "packages/trial-balance-validator",
+  "example": {
+    "title": "Validate continuity and coverage in a balanced synthetic trial balance",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:18:35.623460+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "e97469092e9f3a266c94a5e9991fdc854d7214d63a79a0df086b6b10bb3f707c",
+    "manifestSha256": "157912ec738014597f8c1443d18f4f7c415cb90a657ba04fb3bdc2a2b9904c80"
+  }
+}
