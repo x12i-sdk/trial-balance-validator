@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Trial balance validation, continuity, and coverage checks.
-- A Trial balance integration needs to reuse the capabilities of @x12i/trial-balance-validator inside a larger application.
+- Check account continuity, date boundaries and debit-credit totals in a canonical trial balance.
+- Verify that zero-activity accounts and source contributions survive validation.
 
 ## Links
 
